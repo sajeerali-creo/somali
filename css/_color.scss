@@ -1,0 +1,26 @@
+:root {
+    
+    // base colors
+    --white: #fff;
+    --black: #000;
+    --heading: #101B37;
+    --text: #475467;
+
+    // app colors
+    --primary: #B46B41;
+    --primary-light: #CC855C;
+    --form-border: #D0D5DD;
+    --dark-cyan: #002F3F;
+
+    // function color
+    --success: #00D685;
+    --info: #0297dc;
+    --danger: #FF5C5C;
+    --warning: #0297dc;
+    --orange: #FED319;
+    --purple: #9089FC;
+}
+
+.bg-dark{
+    background-color: rgb(10 38 51) !important;
+}

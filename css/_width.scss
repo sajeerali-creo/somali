@@ -1,0 +1,11 @@
+@for $i from 50 through 250 {
+    .width-#{$i} {
+        width: #{$i}+'px';
+    }
+}
+
+@media (min-width: 992px) {
+    .w-lg-auto {
+        width: auto !important;
+    }
+}

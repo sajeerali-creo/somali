@@ -1,0 +1,16 @@
+.btn-primary {
+    background-color: var(--primary) !important;
+    height: 50px !important;
+    padding: 14px 26px;
+    gap: 8px;
+    color: var(--white);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 1s ease-out;
+    &:hover {
+        background-color: var(--primary-light) !important;
+        cursor: pointer;
+        color: var(--white);
+    }
+}
