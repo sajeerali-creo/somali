@@ -1404,4 +1404,8 @@ ul {
 .banner-footer img {
   height: 50px;
   width: 50px;
+}
+
+.inner .banner-content {
+  height: auto;
 }/*# sourceMappingURL=main.css.map */
